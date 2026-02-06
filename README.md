@@ -1,5 +1,11 @@
 # kickstart.nvim
 
+## Fork Command
+
+```sh
+git clone https://github.com/Aquarmity/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
+
 ## Introduction
 
 A starting point for Neovim that is:
